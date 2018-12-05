@@ -45,18 +45,18 @@ Juego. Nivel 2
 
 Juegador lanzando cuchillos.
 <p align="center">
-<img src="capturas/6.png" width="680px">
+<img src="capturas/7.png" width="680px">
 
 </p> 
 
 Mensaje de victoria
 <p align="center">
-<img src="capturas/7.png" width="680px">
+<img src="capturas/8.png" width="680px">
 
 </p> 
 
 Mensaje de derrota.
 <p align="center">
-<img src="capturas/8.png" width="680px">
+<img src="capturas/9.png" width="680px">
 
 </p> 
