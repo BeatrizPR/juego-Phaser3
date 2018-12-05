@@ -5,6 +5,10 @@ Pequeño juego con phaser3, nodeJS, ES6, webpack
 
 El juego consiste en conseguir que la muñeca consiga 100 frutas y no se deje mata por la comida basura, disparando cuchillos al pulsar el espacio.
 
+**Enlace al juego en Heroku**
+
+https://juego-fruta.herokuapp.com/
+
 ## Capturas del juego
 
 Precarga
